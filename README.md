@@ -131,7 +131,9 @@ Open Claude Code. Say: "I want to build a notification bell for my dashboard. Be
 
 On Deck Society is a Public Benefit Corporation in Phoenix, AZ. Our CEO had zero programming experience. Our CTO has a day job. Our CCO is a designer.
 
-In January 2026, our CEO used Claude Code and the Love Stack to build a 90+ page production web app in 20 days. Authentication, real-time messaging, a patented filtering engine, payments, admin dashboard, and Row Level Security across every table. 10,000 lines of production code.
+In January 2026, our CEO, Pacifico Soldati, sat down with Claude.ai and vibe coded the MVP of Love On Deck in 20 days. Authentication, real-time messaging, a patent pending filtering engine, payments, admin dashboard, and Row Level Security across every table. 10,000 lines of production code.
+
+Then after Opus 4.6 was released, Pacifico began using Claude Code to upgrade the MVP and since then has collected a variety of helpful tools, skills, MCPs, CLIs, and more. After sharing the stack on Threads, Pacifico was encouraged to turn it into a plugin and soon the Love Stack was born. You can do company wide work across multiple departments or just trick out your personal website and everything in between.
 
 We could charge for this. Plenty of people sell Claude skill packs for $50-$200. We're giving it away because we're a Public Benefit Corporation and that's how we roll.
 
