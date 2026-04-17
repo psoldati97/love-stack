@@ -1,0 +1,1 @@
+Included in Love Stack v3.2 as an ODS-original skill (MIT License, On Deck Society). Upstream candidates (CogappLabs/claude-plugins, airowe/claude-a11y-skill) lacked declared licenses, so this skill was written from scratch to cover WCAG 2.2 Level AA.

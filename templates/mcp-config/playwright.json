@@ -1,0 +1,13 @@
+{
+  "name": "playwright",
+  "description": "Official Microsoft Playwright MCP server. Browser automation using structured accessibility snapshots (no vision models required).",
+  "source": "https://github.com/microsoft/playwright-mcp",
+  "license": "Apache-2.0",
+  "install_command": "claude mcp add playwright -- npx -y @playwright/mcp@latest",
+  "auth": {
+    "type": "none",
+    "notes": "No authentication required. Runs locally. Browsers installed on first use."
+  },
+  "tracks": ["developer"],
+  "setup_instructions": "1. Run the install command above. 2. First tool call will trigger Playwright browser download (Chromium by default). 3. Verify with: claude mcp list"
+}

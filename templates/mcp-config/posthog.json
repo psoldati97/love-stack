@@ -1,0 +1,14 @@
+{
+  "name": "posthog",
+  "description": "Official PostHog MCP server. Query analytics, manage feature flags, create insights, run experiments, track errors.",
+  "source": "https://github.com/PostHog/mcp",
+  "license": "MIT",
+  "install_command": "npx @posthog/wizard@latest mcp add",
+  "manual_claude_code_install": "claude mcp add posthog -- npx -y @posthog/wizard@latest",
+  "auth": {
+    "type": "oauth_or_api_key",
+    "notes": "The wizard will prompt for PostHog host and personal API key. Scopes required: read_project, read_insights, read_feature_flags."
+  },
+  "tracks": ["solopreneur", "developer"],
+  "setup_instructions": "1. Run the install command above. 2. When prompted, paste your PostHog personal API key (create one at https://app.posthog.com/settings/user-api-keys). 3. Verify with: claude mcp list"
+}
